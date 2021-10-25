@@ -1,0 +1,14 @@
+﻿  Vjezba1_zadatak2.cpp
+D:\Faks\Objektno programiranje\Vjezba 1\Vjezba1_zadatak2\Vjezba1_zadatak2\Vjezba1_zadatak2.cpp(14,31): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+D:\Faks\Objektno programiranje\Vjezba 1\Vjezba1_zadatak2\Vjezba1_zadatak2\Vjezba1_zadatak2.cpp(17,36): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+D:\Faks\Objektno programiranje\Vjezba 1\Vjezba1_zadatak2\Vjezba1_zadatak2\Vjezba1_zadatak2.cpp(29,31): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+D:\Faks\Objektno programiranje\Vjezba 1\Vjezba1_zadatak2\Vjezba1_zadatak2\Vjezba1_zadatak2.cpp(32,36): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+D:\Faks\Objektno programiranje\Vjezba 1\Vjezba1_zadatak2\Vjezba1_zadatak2\Vjezba1_zadatak2.cpp(43,31): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+D:\Faks\Objektno programiranje\Vjezba 1\Vjezba1_zadatak2\Vjezba1_zadatak2\Vjezba1_zadatak2.cpp(46,36): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+D:\Faks\Objektno programiranje\Vjezba 1\Vjezba1_zadatak2\Vjezba1_zadatak2\Vjezba1_zadatak2.cpp(68,31): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+D:\Faks\Objektno programiranje\Vjezba 1\Vjezba1_zadatak2\Vjezba1_zadatak2\Vjezba1_zadatak2.cpp(71,36): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+D:\Faks\Objektno programiranje\Vjezba 1\Vjezba1_zadatak2\Vjezba1_zadatak2\Vjezba1_zadatak2.cpp(82,31): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+D:\Faks\Objektno programiranje\Vjezba 1\Vjezba1_zadatak2\Vjezba1_zadatak2\Vjezba1_zadatak2.cpp(85,36): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+D:\Faks\Objektno programiranje\Vjezba 1\Vjezba1_zadatak2\Vjezba1_zadatak2\Vjezba1_zadatak2.cpp(96,31): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+D:\Faks\Objektno programiranje\Vjezba 1\Vjezba1_zadatak2\Vjezba1_zadatak2\Vjezba1_zadatak2.cpp(99,36): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+  Vjezba1_zadatak2.vcxproj -> D:\Faks\Objektno programiranje\Vjezba 1\Vjezba1_zadatak2\Debug\Vjezba1_zadatak2.exe
