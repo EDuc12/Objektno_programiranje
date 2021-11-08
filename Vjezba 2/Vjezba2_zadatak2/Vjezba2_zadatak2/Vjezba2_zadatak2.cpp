@@ -2,13 +2,7 @@
 using namespace std;
 void index(int *arr, int x, int &y)
 {
-	for (int i = 0; i < x; i++)
-	{
-		cout << "Number:";
-		cin >> arr[i];
-		if (i + 1 == y)
-			y = arr[i] + 1;
-	}
+	return arr[y];
 }
 void main()
 {
@@ -18,6 +12,6 @@ void main()
 	int* arr = new int[x];
 	cout << "Number index:";
 	cin >> y;
-	index(arr,x, y);
+	index(arr,x, y) +=1;
 	cout << y;
 }
