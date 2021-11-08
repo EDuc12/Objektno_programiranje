@@ -41,7 +41,9 @@ float** count1(matrix *mat, float **mat1, float **mat2)
 {
     float** matrix3;
     matrix3 = new float * [mat->rows];
-    for(int i = 0; i < mat->rows; i++)
+    if(mat->rows = mat1->rows && mat->cols = mat1->cols)
+    {
+        for(int i = 0; i < mat->rows; i++)
     {
         matrix3[i] = new float [mat->cols];
         for(int y=0; y < mat->cols; y++)
@@ -50,6 +52,11 @@ float** count1(matrix *mat, float **mat1, float **mat2)
         }
     }
     return matrix3;
+    }
+    else()
+    {
+        cout << "I cant do that math operation with different type of matrix."; 
+    }
 }
 void output(matrix *mat, float **mat1)
 {
@@ -66,29 +73,44 @@ float** minus1(matrix *mat, float **mat1, float **mat2)
 {
     float** matrix3;
     matrix3 = new float * [mat->rows];
-    for(int i = 0; i < mat->rows; i++)
+    if(mat->rows = mat1->rows && mat->cols = mat1->cols)
     {
-        matrix3[i] = new float [mat->cols];
-        for(int y=0; y < mat->cols; y++)
+        for(int i = 0; i < mat->rows; i++)
         {
-            matrix3 [i] [y] = mat1 [i] [y] - mat2 [i] [y];
+            matrix3[i] = new float [mat->cols];
+            for(int y=0; y < mat->cols; y++)
+            {
+                matrix3 [i] [y] = mat1 [i] [y] - mat2 [i] [y];
+            }
         }
-    }
     return matrix3;
+    }
+     else()
+    {
+        cout << "I cant do that math operation with different type of matrix."; 
+    }
+    }
 }
 float** multi(matrix *mat, float **mat1, float **mat2)
 {
     float** matrix3;
     matrix3 = new float * [mat->rows];
-    for(int i = 0; i < mat->rows; i++)
+    if(mat->rows = mat1->rows && mat->cols = mat1->cols)
     {
-        matrix3[i] = new float [mat->cols];
-        for(int y=0; y < mat->cols; y++)
+        for(int i = 0; i < mat->rows; i++)
         {
-            matrix3 [i] [y] = mat1 [i] [y] * mat2 [i] [y];
+            matrix3[i] = new float [mat->cols];
+            for(int y=0; y < mat->cols; y++)
+            {
+                matrix3 [i] [y] = mat1 [i] [y] * mat2 [i] [y];
+            }
         }
-    }
     return matrix3;
+    }
+    else()
+    {
+        cout << "I cant do that math operation with different type of matrix."; 
+    }
 }
 float** trans(matrix *mat, float **mat1)
 {
