@@ -89,7 +89,6 @@ float** minus1(matrix *mat, float **mat1, float **mat2)
     {
         cout << "I cant do that math operation with different type of matrix."; 
     }
-    }
 }
 float** multi(matrix *mat, float **mat1, float **mat2)
 {
