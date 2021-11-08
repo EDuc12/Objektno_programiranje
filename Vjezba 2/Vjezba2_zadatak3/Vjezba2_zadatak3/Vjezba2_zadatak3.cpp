@@ -4,12 +4,12 @@ typedef struct
 {
 	int r;
 	int Xr, Yr;
-}circle;
+}Circle;
 typedef struct
 {
 	int X1, Y1, X2, Y2;
-}rectangle;
-int rectci(const rectangle* arr, const circle &j, int k)
+}Rectangle;
+int intersection(const Rectangle* arr, const Circle &j, int k)
 {
 	int g=0;
 	for (int i = 0; i < k; i++)
@@ -29,15 +29,15 @@ void main()
 	int k,g;
 	cout << "Size of array:";
 	cin >> k;
-	rectangle* arr = new rectangle[k];
+	Rectangle* arr = new Rectangle[k];
 	for (int i = 0; i < k; i++)
 	{
 		cout << "Input coordinates:";
 		cin >> arr[i].X1 >> arr[i].Y1 >> arr[i].X2 >> arr[i].Y2;
 	}
-	circle j;
+	Circle j;
 	cout << "Input radius and coordinates:";
 	cin >> j.r >> j.Xr >> j.Yr;
-	g=rectci(arr, j, k);
+	g=intersection(arr, j, k);
 	cout << "There are "<< g <<" rectangle which crosses the circle";
 }
