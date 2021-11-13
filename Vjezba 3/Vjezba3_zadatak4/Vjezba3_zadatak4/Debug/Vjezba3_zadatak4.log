@@ -1,0 +1,5 @@
+﻿  Vjezba3_zadatak4.cpp
+D:\Faks\Objektno programiranje\Vjezba 3\Vjezba3_zadatak4\Vjezba3_zadatak4\Vjezba3_zadatak4.cpp(27,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Faks\Objektno programiranje\Vjezba 3\Vjezba3_zadatak4\Vjezba3_zadatak4\Vjezba3_zadatak4.cpp(28,14): warning C4101: 'max': unreferenced local variable
+D:\Faks\Objektno programiranje\Vjezba 3\Vjezba3_zadatak4\Vjezba3_zadatak4\Vjezba3_zadatak4.cpp(28,9): warning C4101: 'min': unreferenced local variable
+  Vjezba3_zadatak4.vcxproj -> D:\Faks\Objektno programiranje\Vjezba 3\Vjezba3_zadatak4\Debug\Vjezba3_zadatak4.exe

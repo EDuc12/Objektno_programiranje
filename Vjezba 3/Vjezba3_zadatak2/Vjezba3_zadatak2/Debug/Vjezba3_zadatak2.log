@@ -1,0 +1,7 @@
+﻿  Vjezba3_zadatak2.cpp
+D:\Faks\Objektno programiranje\Vjezba 3\Vjezba3_zadatak2\Vjezba3_zadatak2\Vjezba3_zadatak2.cpp(28,23): warning C4018: '<': signed/unsigned mismatch
+D:\Faks\Objektno programiranje\Vjezba 3\Vjezba3_zadatak2\Vjezba3_zadatak2\Vjezba3_zadatak2.cpp(30,27): warning C4018: '<': signed/unsigned mismatch
+D:\Faks\Objektno programiranje\Vjezba 3\Vjezba3_zadatak2\Vjezba3_zadatak2\Vjezba3_zadatak2.cpp(45,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Faks\Objektno programiranje\Vjezba 3\Vjezba3_zadatak2\Vjezba3_zadatak2\Vjezba3_zadatak2.cpp(46,14): warning C4101: 'max': unreferenced local variable
+D:\Faks\Objektno programiranje\Vjezba 3\Vjezba3_zadatak2\Vjezba3_zadatak2\Vjezba3_zadatak2.cpp(46,9): warning C4101: 'min': unreferenced local variable
+  Vjezba3_zadatak2.vcxproj -> D:\Faks\Objektno programiranje\Vjezba 3\Vjezba3_zadatak2\Debug\Vjezba3_zadatak2.exe
