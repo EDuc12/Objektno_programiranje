@@ -1,5 +1,4 @@
 #include "Header.h"
-#include<algorithm>
 void output_vector(vector<int>& v)
 {
     for (int el : v)
