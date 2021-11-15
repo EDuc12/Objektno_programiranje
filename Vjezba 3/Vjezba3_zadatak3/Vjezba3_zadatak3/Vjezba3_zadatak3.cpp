@@ -9,7 +9,7 @@ void output_vector(vector<int>& v)
 void input_vector_references_element_number(vector<int>& v, int& num_elements)
 {
     int el;
-    int i = 0, min=INT_MAX, y, max, s, sum=0;
+    int i = 0, min, y, max, s, sum=0;
     while (i < num_elements)
     {
         cout << "Enter the vector elements:";
