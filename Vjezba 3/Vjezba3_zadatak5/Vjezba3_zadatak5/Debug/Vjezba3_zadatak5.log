@@ -1,0 +1,5 @@
+﻿  Vjezba3_zadatak5.cpp
+D:\Faks\Objektno programiranje\Vjezba 3\Vjezba3_zadatak5\Vjezba3_zadatak5\Vjezba3_zadatak5.cpp(23,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Faks\Objektno programiranje\Vjezba 3\Vjezba3_zadatak5\Vjezba3_zadatak5\Vjezba3_zadatak5.cpp(25,6): warning C4101: 'l': unreferenced local variable
+D:\Faks\Objektno programiranje\Vjezba 3\Vjezba3_zadatak5\Vjezba3_zadatak5\Vjezba3_zadatak5.cpp(25,9): warning C4101: 'p_l': unreferenced local variable
+  Vjezba3_zadatak5.vcxproj -> D:\Faks\Objektno programiranje\Vjezba 3\Vjezba3_zadatak5\Debug\Vjezba3_zadatak5.exe
