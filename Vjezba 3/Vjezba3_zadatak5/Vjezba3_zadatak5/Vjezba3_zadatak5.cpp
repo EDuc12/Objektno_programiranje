@@ -25,7 +25,7 @@ void main()
 	int l, sub_l;
 	cout << "Insert a word" << endl;
 	getline(cin, str);
-	cout << "Insert a second word:" << endl;
+	cout << "Insert a sub string:" << endl;
 	getline(cin, sub_str);
 	int y=num_strings(str, sub_str);
 	cout << "Number of second word in first word: " << y;
