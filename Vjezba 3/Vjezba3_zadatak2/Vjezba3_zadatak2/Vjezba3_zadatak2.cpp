@@ -5,6 +5,15 @@ void output_vector(vector<int>& v)
         cout << el << " ";
     cout << endl;
 }
+/*void fill_vector(vector<int>& v, int length){
+  while (i < length)
+    {
+        cout << "Enter the vector elements:";
+        cin >> el;
+        v.push_back(el);
+        i++;
+    }  
+}*/
 void input_vector_references_element_number(vector<int>& v, int& num_elements)
 {
     int el,br=0;
