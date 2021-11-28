@@ -16,7 +16,7 @@ void main()
 	while (fp)
 	{
 		getline(fp, m.movie);
-		m.GuessMovie = 8;
+		m.lives = 8;
 		usedLettersC.clear();
 		usedLettersF.clear();
 		m.GuessMovie.clear();
